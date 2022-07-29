@@ -1,0 +1,7 @@
+<h1> bajo <h6> proyectos
+cambiar pt y pb h1 por px-1
+cambiar P mayuscula en proyectH6
+<br> x2 bajo carousel
+
+cambiar formato ul ficha tecnica y col-4 col-8
+quitar role alert a instalacion
