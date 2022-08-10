@@ -1,6 +1,6 @@
-<h1> bajo <h6> proyectos
-cambiar pt y pb h1 por px-1
-cambiar P mayuscula en proyectH6
+<h1> bajo <h4> proyectos
+cambiar pt y pb h1 por py-1
+cambiar P mayuscula en proyectH4
 <br> x2 bajo carousel
 
 cambiar formato ul ficha tecnica y col-4 col-8
